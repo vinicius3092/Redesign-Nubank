@@ -1,2 +1,2 @@
 # Redesign-Nubank
- Novo Desgin da nubank Feito Html/css puro
+ Novo Desgin da nubank Feito com Html/css puro
