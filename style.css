@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+}
+body{
+    background-color: #FCF4FE;
+}
+.logo{
+    padding-left: 30px;
+}
+.menu{
+    background-color: #FCF4FE;
+    display: flex;
+    align-items: center;
+   justify-content: space-around;
+}
+
+ul{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+ul > li{
+    list-style: none;
+}
+
+ul > li > a{
+    text-decoration: none;
+    margin-right: 35px;
+    color: #808090;
+    padding-left: 25px;
+}
+
+
+ul > li > a:hover{
+    color: #9412b8;
+}
+
+.bnt{
+    color: #A857BE;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;  
+  font-weight: 600;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+  background-color:#FCF4FE ;
+  border: 1px solid #be00ee;
+  padding: 10px 40px;
+  border-radius: 17px;
+  margin-left:30px;
+  
+}
+ .bnt:hover{
+     color: white;
+     background-color:#be00ee ;
+ }
+
+ .section1{
+     font-size: 39px;
+     color: #444444;
+     margin-top: 90px;
+     margin-left: 30px;
+     font-weight: bold;
+     display: flex;
+ }
+
+ .textodestaque{
+     text-decoration: none;
+     color:#be00ee;
+     
+ }
+
+
+.texto2{
+
+    font-size: 17px;
+    font-weight: lighter;
+    color:#444444a4 ;
+    text-decoration: none;
+}
+
+aside{
+    background-color: white;
+    width: 500px;
+    height: 300px;
+    font-size: 23px;
+    margin: 10px;
+    box-shadow: 1px 1px 2px black ;
+    border-radius: 40px;
+}
+
+.texto3{
+    text-align:center;
+}
+
+ .logonu{
+ margin-left: 180px;
+ margin-top: 40px;
+ 
+}
+
+form{
+    margin-top: 10px;
+    margin-left: 160px;
+    font-size: 10px;
+   
+   
+}
+input{
+    border: 1px solid #9412b8 ;
+    border-radius: 5px;
+
+ 
+}
+
+.botão2{
+    width: 100px;
+    background-color: #9412b8;
+    color: white;
+    border: 2px solid #9412b8 ;
+    border-radius: 10px;
+    margin-left: 35px;
+}
+
+ 
